@@ -133,7 +133,7 @@
     <module name="CyclomaticComplexity"/>
     <module name="NPathComplexity"/>
     <module name="TodoComment">
-      <property name="format" value="TODO"/>
+      <property name="format" value="TODO|FIXME"/>
     </module>
     <module name="TrailingComment"/>
     <module name="JavadocMethod">
