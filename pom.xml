@@ -3,7 +3,7 @@
   <groupId>de.cosmocode</groupId>
   <artifactId>checkstyle-config</artifactId>
   <packaging>jar</packaging>
-  <version>0.2-SNAPSHOT</version>
+  <version>0.2</version>
   <name>CosmoCode Checkstyle Config</name>
   <url>http://www.cosmocode.de</url>
   <parent>
