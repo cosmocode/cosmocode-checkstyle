@@ -27,7 +27,9 @@
     <module name="IllegalImport"/>
     <module name="RedundantImport"/>
     <module name="MethodLength"/>
-    <module name="ParameterNumber"/>
+    <module name="ParameterNumber">
+      <property name="max" value="15"/>
+    </module>
     <module name="ModifierOrder"/>
     <module name="RedundantModifier"/>
     <module name="EmptyBlock"/>
