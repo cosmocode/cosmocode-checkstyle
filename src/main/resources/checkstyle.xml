@@ -5,13 +5,14 @@
     This configuration file was written by the eclipse-cs plugin configuration editor
 -->
 <!--
-    Checkstyle-Configuration: CosmoCode
+    Checkstyle-Configuration: Cosmocode Conventions
     Description: none
 -->
 <module name="Checker">
   <property name="severity" value="warning"/>
   <module name="TreeWalker">
     <property name="tabWidth" value="4"/>
+    <module name="FileContentsHolder"/>
     <module name="ConstantName">
       <property name="format" value="^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$|^log$"/>
     </module>
@@ -157,4 +158,5 @@
   <module name="FileLength"/>
   <module name="NewlineAtEndOfFile"/>
   <module name="FileTabCharacter"/>
+  <module name="SuppressionCommentFilter"/>
 </module>
