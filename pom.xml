@@ -5,7 +5,6 @@
   <packaging>jar</packaging>
   <version>0.2</version>
   <name>CosmoCode Checkstyle Config</name>
-  <url>http://www.cosmocode.de</url>
   <parent>
     <artifactId>cosmocode-parent</artifactId>
     <groupId>de.cosmocode</groupId>
