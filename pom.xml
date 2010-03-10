@@ -4,13 +4,13 @@
   <artifactId>checkstyle-config</artifactId>
   <packaging>jar</packaging>
   <name>CosmoCode Checkstyle Config</name>
-  <version>1.0.0</version>
+  <version>1.1-SNAPSHOT</version>
   <parent>
     <artifactId>cosmocode-parent</artifactId>
     <groupId>de.cosmocode</groupId>
     <version>1.4.1</version>
   </parent>
   <scm>
-    <developerConnection>scm:svn:https://commons.svn.cosmocode.de/checkstyle-config/tags/1.0.0</developerConnection>
+    <developerConnection>scm:svn:https://commons.svn.cosmocode.de/checkstyle-config/trunk</developerConnection>
   </scm>
 </project>
