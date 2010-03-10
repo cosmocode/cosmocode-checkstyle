@@ -8,7 +8,7 @@
   <parent>
     <artifactId>cosmocode-parent</artifactId>
     <groupId>de.cosmocode</groupId>
-    <version>1.4.1</version>
+    <version>1.5.5.22</version>
   </parent>
   <scm>
     <developerConnection>scm:svn:https://commons.svn.cosmocode.de/checkstyle-config/trunk</developerConnection>
