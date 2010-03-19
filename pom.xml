@@ -4,7 +4,7 @@
   <artifactId>checkstyle-config</artifactId>
   <packaging>jar</packaging>
   <name>CosmoCode Checkstyle Config</name>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1.0</version>
   <distributionManagement>
     <repository>
       <id>cosmocode-public-releases</id>
@@ -43,6 +43,6 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <scm>
-    <developerConnection>scm:svn:https://commons.svn.cosmocode.de/checkstyle-config/trunk</developerConnection>
+    <developerConnection>scm:svn:https://commons.svn.cosmocode.de/checkstyle-config/tags/1.1.0</developerConnection>
   </scm>
 </project>
